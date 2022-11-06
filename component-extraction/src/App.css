@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 20vmin;
+  height: 40vmin;
   pointer-events: none;
 }
 
@@ -35,9 +35,4 @@
   to {
     transform: rotate(360deg);
   }
-}
-
-button {
-  background-color: white;
-  color: black;
 }
